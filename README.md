@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&pause=200&color=36BCF7&center=true&vCenter=true&width=700&lines=Software+Developer;C%2B%2B+%26+Python;Problem+Solver;Future+Game+Developer)](https://git.io/typing-svg)
 
-![Coding](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400">
 
 🚀 Passionate about building smart and efficient software solutions  
 🎯 Focused on Backend Development, Game Logic & System Design  
@@ -28,9 +28,9 @@
 
 ## 📊 GitHub Stats
 
-![Kero's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kero1012&show_icons=true&theme=dark&hide_border=true&custom_title=Kero's+GitHub+Stats&icon_color=36BCF7&text_color=ffffff&bg_color=0d1117)
+<img src="https://github-readme-stats.vercel.app/api?username=Kero1012&show_icons=true&theme=tokyonight&hide_border=true&title_color=36BCF7&icon_color=36BCF7&text_color=ffffff&bg_color=0d1117" width="48%" />
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Kero1012&theme=dark&hide_border=true)
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Kero1012&theme=tokyonight&hide_border=true&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7" width="48%"/>
 
 ---
 
