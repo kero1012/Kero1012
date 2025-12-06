@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Kero 👋</h1>
+<h1 align="center">Hi there, I'm Kerolos 👋</h1>
 <h3 align="center">Software Developer | C++ & Python | Problem Solver</h3>
 
 <p align="center">
@@ -13,21 +13,23 @@
 
 <hr>
 
+<!-- Animated Section: Language Proficiency -->
 <h3 align="center">🧩 Language Proficiency</h3>
 
 <p align="center"><b>Python</b></p>
 <div align="center">
   <img src="https://img.shields.io/badge/Python-100%25-00C853?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Logic_Thinking-100%25-00C853?style=for-the-badge" />
 </div>
 
 <p align="center"><b>C++</b></p>
 <div align="center">
   <img src="https://img.shields.io/badge/C%2B%2B-100%25-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Problem_Solving-100%25-00C853?style=for-the-badge" />
 </div>
 
-<hr>
+<!-- Simple Animated Divider -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:36BCF7,100:00C853&height=3&section=header&animation=fadeIn" />
+</p>
 
 <h3 align="center">🛠 Tech Stack</h3>
 <p align="center">
@@ -36,16 +38,10 @@
   <img src="https://img.shields.io/badge/Algorithms-Advanced-000000?style=for-the-badge" />
 </p>
 
-<hr>
-
-<h3 align="center">💼 What I Do</h3>
+<!-- Subtle Animation Line -->
 <p align="center">
-  ✅ Build logic-based systems and automation tools<br>
-  ✅ Develop game mechanics and simulations<br>
-  ✅ Write clean, optimized, and scalable code
+  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&size=20&center=true&vCenter=true&width=600&lines=Clean+Code+Lover;Backend+Logic+Builder;Game+Mechanics+Explorer" />
 </p>
-
-<hr>
 
 <h3 align="center">📫 Connect With Me</h3>
 <p align="center">
@@ -57,7 +53,12 @@
     <img src="https://img.shields.io/badge/Facebook-Kerolos_Khalil-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
 
-  <a href="mailto:wassofgoug@gmail.com">
+  <a href="mailto:kerolosedwar2@gamil.com">
     <img src="https://img.shields.io/badge/Gmail-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+</p>
+
+<!-- Footer Animation -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C853,100:36BCF7&height=120&section=footer&animation=fadeIn"/>
 </p>
