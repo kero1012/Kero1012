@@ -1,13 +1,14 @@
-<h1 align="center">Hi there, I'm Kero 👋</h1>
+<h1 align="center">Hi there, I'm Kerolos 👋</h1>
 
+<!-- Faster Typing Animation -->
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&pause=500&color=36BCF7&center=true&vCenter=true&width=700&lines=Software+Developer;C%2B%2B+%26+Python;Problem+Solver;Future+Game+Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&pause=200&color=36BCF7&center=true&vCenter=true&width=700&lines=Software+Developer;C%2B%2B+%26+Python;Problem+Solver;Future+Game+Developer" />
 </h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
-       width="420"
-       style="max-width:100%; border-radius:15px;">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" 
+       width="420" 
+       style="border-radius:15px;">
 </p>
 
 <p align="center">
@@ -18,6 +19,7 @@
 
 <hr>
 
+<!-- Tech Stack -->
 <h3 align="center">🛠 Tech Stack</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-Learning-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -27,23 +29,32 @@
 
 <hr>
 
+<!-- Animated What I Do -->
 <h3 align="center">⚡ What I Do</h3>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=600&color=00C853&center=true&vCenter=true&width=750&lines=Writing+clean+and+simple+code;Learning+algorithms+step+by+step;Building+small+projects;Improving+every+day" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=200&color=00C853&center=true&vCenter=true&width=750&lines=Writing+clean+code;Learning+step+by+step;Building+small+projects;Improving+every+day" />
 </p>
 
 <hr>
 
+<!-- GitHub Stats Similar Style -->
 <h3 align="center">📊 GitHub Stats</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Repositories-4-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Commits-75-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Stars-2-yellow?style=for-the-badge" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Kero1012&show_icons=true&theme=dark&hide_border=true&custom_title=Kero's+GitHub+Stats&icon_color=36BCF7&text_color=ffffff&bg_color=0d1117" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Level-Beginner-00C853?style=for-the-badge" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Kero1012&theme=dark&hide_border=true" width="48%"/>
+</p>
+
+<hr>
+
+<!-- Beginner Style Metrics -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Total_Repositories-3-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Total_Commits-48-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Current_Streak-2_days-orange?style=for-the-badge"/>
 </p>
 
 <hr>
