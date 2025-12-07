@@ -1,10 +1,8 @@
 <div align="center">
 
 # Hi there, I'm Kerolos 👋
+![giphy (1)](https://github.com/user-attachments/assets/d814fa50-a4cd-46f7-94aa-6fb880ee2bc6)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&pause=200&color=36BCF7&center=true&vCenter=true&width=700&lines=Software+Developer;C%2B%2B+%26+Python;Problem+Solver;Future+Game+Developer)](https://git.io/typing-svg)
-
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGo5aXoxZHc3OWV5aGJ4emN2eDB2Z3A1ZjZvMGJoYTA3ZGoxNDE4dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif" width="500">
 
 <p align="center">
   Aspiring Software Engineer crafting efficient code.<br>
