@@ -6,19 +6,18 @@
 
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGo5aXoxZHc3OWV5aGJ4emN2eDB2Z3A1ZjZvMGJoYTA3ZGoxNDE4dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif" width="500">
 
-```
-                  Aspiring Software Engineer crafting efficient code. Specializing in Backend Development
-                             Game Mechanics, and Algorithms
-                             maintainable software using C++ & Python
-                             Dedicated to writing clean
-```
+<p align="center">
+  Aspiring Software Engineer crafting efficient code.<br>
+  Specializing in Backend Development, Game Mechanics, and Algorithms.<br>
+  Dedicated to writing clean, maintainable software using C++ & Python.
+</p>
 
 ---
 
 ## 🛠 Tech Stack
 
-![Python](https://img.shields.io/badge/Python-Learning-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-Learning-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-Intermediate-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-Intermediate-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-Beginner-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
 ---
@@ -29,9 +28,16 @@
 
 ---
 
-![Total Repositories](https://img.shields.io/badge/Total_Repositories-3-blue?style=for-the-badge)
-![Total Commits](https://img.shields.io/badge/Total_Commits-48-green?style=for-the-badge)
-![Current Streak](https://img.shields.io/badge/Current_Streak-2_days-orange?style=for-the-badge)
+<h3 align="center">📊 GitHub Stats</h3>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kerolos1012&theme=dark&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kerolos1012&show_icons=true&theme=dark&hide_border=true&count_private=true" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kerolos1012&layout=compact&theme=dark&hide_border=true" height="180" alt="Top Languages" />
+</p>
 
 ---
 
