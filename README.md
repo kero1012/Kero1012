@@ -6,10 +6,10 @@
 
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGo5aXoxZHc3OWV5aGJ4emN2eDB2Z3A1ZjZvMGJoYTA3ZGoxNDE4dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif" width="500">
 
-```diff
-+ 🚀 Passionate about building smart and efficient software solutions
-+ 🎯 Focused on Backend Development, Game Logic & System Design
-+ ⚡ Always learning, always improving
+```
+🚀 Passionate about building smart and efficient software solutions
+🎯 Focused on Backend Development, Game Logic & System Design
+⚡ Always learning, always improving
 ```
 
 ---
