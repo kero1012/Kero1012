@@ -1,16 +1,3 @@
-<div align="center">
-
-# Hi there, I'm Kerolos 👋
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&pause=200&color=36BCF7&center=true&vCenter=true&width=700&lines=Software+Developer;C%2B%2B+%26+Python;Problem+Solver;Future+Game+Developer)](https://git.io/typing-svg)
-
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGo5aXoxZHc3OWV5aGJ4emN2eDB2Z3A1ZjZvMGJoYTA3ZGoxNDE4dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif" width="500">
-
-```
-🚀 Passionate about building smart and efficient software solutions
-🎯 Focused on Backend Development, Game Logic & System Design
-⚡ Always learning, always improving
-```
 
 ---
 
@@ -30,9 +17,9 @@
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=Kero1012&show_icons=true&theme=tokyonight&hide_border=true&title_color=36BCF7&icon_color=36BCF7&text_color=ffffff&bg_color=0d1117" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Kero1012&show_icons=true&theme=tokyonight&hide_border=true&title_color=36BCF7&icon_color=36BCF7&text_color=ffffff&bg_color=0d1117" width="48%" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Kero1012&theme=tokyonight&hide_border=true&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Kero1012&theme=tokyonight&hide_border=true&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7" width="48%" />
 
 ---
 
@@ -51,5 +38,3 @@
 ---
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:00C853&height=120&section=footer&animation=fadeIn)
-
-</div>
