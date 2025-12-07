@@ -29,14 +29,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=Kero1012&show_icons=true&theme=tokyonight&hide_border=true&title_color=36BCF7&icon_color=36BCF7&text_color=ffffff&bg_color=0d1117" width="48%"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Kero1012&theme=tokyonight&hide_border=true&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7" width="48%"/>
-
----
-
 ![Total Repositories](https://img.shields.io/badge/Total_Repositories-3-blue?style=for-the-badge)
 ![Total Commits](https://img.shields.io/badge/Total_Commits-48-green?style=for-the-badge)
 ![Current Streak](https://img.shields.io/badge/Current_Streak-2_days-orange?style=for-the-badge)
