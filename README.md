@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&pause=200&color=36BCF7&center=true&vCenter=true&width=700&lines=Software+Developer;C%2B%2B+%26+Python;Problem+Solver;Future+Game+Developer)](https://git.io/typing-svg)
 
-<<<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG5hb3ZyeTAzcjcyNWY2bWNsNmp5ejg4aHAwbnlsdTRkZmpsOGc5dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JyxdzuAaxZnPH7TyRd/giphy.gif" width="1000">>>
+![Kerolos GIF](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG5hb3ZyeTAzcjcyNWY2bWNsNmp5ejg4aHAwbnlsdTRkZmpsOGc5dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JyxdzuAaxZnPH7TyRd/giphy.gif)
 
 🚀 Passionate about building smart and efficient software solutions  
 🎯 Focused on Backend Development, Game Logic & System Design  
